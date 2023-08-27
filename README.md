@@ -1,1 +1,0 @@
-# Farmer-Management-System
